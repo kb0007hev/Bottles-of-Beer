@@ -1,4 +1,4 @@
-#  Magic 8 Ball / Grettings / TipCalculator
+#  Bottles of Beer
 
 ### MOTIVATION
 
@@ -8,6 +8,5 @@
 > Nodejs and Express
 
 ### DESCRIPTION
-> Server connection to the client
-
+> Server connection to the client using HTTP and href
 
